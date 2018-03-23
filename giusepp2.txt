@@ -1,0 +1,14 @@
+ Il volume nell'unit… C Š TI31303200D
+ Numero di serie del volume: AAFD-84C1
+
+ Directory di C:\Users\v.gambale\Desktop\Javaproject\TestVincenzoJavaJenkins
+
+23/03/2018  15:20    <DIR>          .
+23/03/2018  15:20    <DIR>          ..
+23/03/2018  15:20                 0 giusepp2.txt
+23/03/2018  15:16               540 giuseppe.txt
+23/03/2018  12:29               902 Hello.class
+23/03/2018  12:25               151 Hello.java
+23/03/2018  15:15               490 readme.txt
+               5 File          2.083 byte
+               2 Directory  574.179.938.304 byte disponibili
